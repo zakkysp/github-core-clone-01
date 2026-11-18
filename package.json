@@ -1,0 +1,1 @@
+{"engines":{"node":">=22.18.0"},"name":"github-core-clone-01","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
